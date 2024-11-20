@@ -5,5 +5,5 @@
 # series - coluna de um data frame
 
 import pandas as pd
-
-dados = pd.read_csv('basecensus.csv')
+# import matplotlib.pyplot as plt
+# dados = pd.read_csv('Credit.csv')
